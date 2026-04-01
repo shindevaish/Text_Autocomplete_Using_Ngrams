@@ -35,7 +35,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ## Technologies Used
 
-- Python 🐍
+- Python
 - NLTK
 - Pandas
 - Matplotlib
