@@ -1,6 +1,6 @@
 # Text Autocomplete Using N-Gram Model (NLP)
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates the implementation of **N-Gram Language Models** for **text prediction and sentence auto-completion** using Natural Language Processing (NLP) techniques.
 
@@ -8,7 +8,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Apply **N-Gram models** in NLP
 - Generate **Bigram, Trigram, and 4-gram sequences**
@@ -19,7 +19,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ---
 
-## 📊 Dataset Used
+## Dataset Used
 
 ### 1. IMDB Movie Review Dataset
 - Used for N-gram analysis
@@ -33,7 +33,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Python 🐍
 - NLTK
@@ -44,7 +44,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ---
 
-## ✨ Features
+## Features
 
 ✅ Bigram & Trigram Analysis  
 ✅ 4-Gram Generation  
@@ -58,7 +58,7 @@ The project uses **Bigram, Trigram, and 4-gram models** to analyze text data and
 
 ---
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ### Step 1: Clone Repository
 
